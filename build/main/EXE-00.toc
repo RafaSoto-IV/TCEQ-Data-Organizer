@@ -167,7 +167,7 @@
  [],
  False,
  False,
- 1695260840,
+ 1708481641,
  [('run.exe',
    'c:\\users\\teran\\pycharmprojects\\tceq data '
    'organizer\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
